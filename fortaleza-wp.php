@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name:       Fortaleza WP
- * Plugin URI:        https://github.com/
+ * Plugin URI:        https://github.com/diegoolintonogueira/Fortaleza-WP
  * Description:       Hardening estrutural para WordPress. Em vez de detectar assinaturas de ataques conhecidos (que exigem atualização constante), bloqueia CLASSES de vetores de ataque: execução de PHP em uploads, enumeração de usuários, brute force, XML-RPC, fingerprinting da versão, e monitora a integridade dos arquivos do core/tema/plugins para detectar backdoors. Não substitui boas práticas (manter tudo atualizado continua sendo essencial), mas reduz drasticamente a frequência de manutenção necessária.
  * Version:           1.0.0
  * Requires at least: 5.5
  * Requires PHP:      7.4
- * Author:            Fortaleza WP
- * License:           GPLv2 or later
+ * Author:            D. Ø. N.
+ * License:           MIT
  * Text Domain:       fortaleza-wp
  *
  * ============================================================================
