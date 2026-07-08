@@ -69,4 +69,4 @@ Pull Requests são bem-vindos.
 
 ## Licença
 
-GPL v2 ou superior.
+MIT.
